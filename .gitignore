@@ -1,0 +1,5 @@
+/.gradle
+/.idea
+/src/test
+
+/.env
