@@ -1,3 +1,7 @@
 package com.github.kseodev
 
-fun main() {}
+import com.github.kseodev.core.Kseo
+
+fun main() {
+    Kseo()
+}
